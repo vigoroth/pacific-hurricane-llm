@@ -30,7 +30,7 @@ pip install -r requirements.txt
 #API Keys
 
 ```bash
-Create a <mark>.env</mark> file in the root directory:
+Create a .env file in the root directory:
 ```
 
 #Directory Structure
